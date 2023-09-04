@@ -600,9 +600,9 @@
     padding-left: 32px !important;
   }
 }
-/* #es-rc.es-rc .es-cross__row--1 {
+#es-rc.es-rc .es-cross__row--1 {
   height: 82px;
-} */
+}
 #es-rc.es-rc .es-cross__row--2 {
   height: 64px;
 }

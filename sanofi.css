@@ -555,7 +555,7 @@
 }
 #es-rc.es-rc .es-cross__emptyImage {
   display: block;
-  height: 250px !important;
+  height: 248px !important;
   padding-top: 50px;
 }
 #es-rc.es-rc .es-cross__badge {
@@ -589,7 +589,7 @@
 #es-rc.es-rc .es-cross__row {
   vertical-align: middle;
   text-align: left !important;
-  padding-left: 15px !important;
+  padding-left: 5px !important;
   font-family: "Montserrat";
   font-weight: 500;
   color: #fff;

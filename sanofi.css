@@ -643,10 +643,12 @@
 }
 #es-rc.es-rc .es-cross thead {
   height: 271px !important;
+  overflow: hidden  !important;
+  z-index: -1  !important;
 }
 #es-rc.es-rc .es-cross tbody {
   height: 400px;
-  z-index: 2;
+  z-index: 2 !important;
 }
 #es-rc.es-rc .es-cross td {
   font-family: "Montserrat";

@@ -641,9 +641,6 @@
   border: none;
   border-color: transparent !important;
 }
-#es-rc #es-rc-content .table>:not(caption)>*>* {
-  padding: 0.635rem 0.5rem !important;
-}
 #es-rc.es-rc .es-cross thead {
   height: 271px !important;
   overflow: hidden  !important;

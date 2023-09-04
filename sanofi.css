@@ -623,9 +623,6 @@
 #es-rc.es-rc .es-cross__row--6 {
   height: 84.59px;
 }
-#es-rc.es-rc *::-webkit-scrollbar {
-  height: 20px;
-}
 #es-rc.es-rc .es-cross__head {
   font-family: "MuseoSans";
   font-size: 22px !important;
@@ -645,7 +642,7 @@
   border-color: transparent !important;
 }
 #es-rc.es-rc .es-cross thead {
-  height: 271px;
+  height: 271px !important;
 }
 #es-rc.es-rc .es-cross tbody {
   height: 400px;

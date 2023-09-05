@@ -496,7 +496,7 @@
   position: absolute;
   width: 100%;
   height: 410px;
-  top: 416px;
+  bottom: 0;
   left: 0;
   background: rgb(68, 152, 209);
   background: linear-gradient(180deg, rgb(68, 152, 209) 0%, rgb(31, 87, 164) 27%);
@@ -663,6 +663,7 @@
 #es-rc.es-rc .es-cross th {
   border: none !important;
   min-width: 90px;
+  height: 271px !important;
 }
 #es-rc.es-rc .es-articles__title {
   width: 100%;

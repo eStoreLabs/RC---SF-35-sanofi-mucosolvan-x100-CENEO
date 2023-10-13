@@ -174,26 +174,13 @@
   font-weight: 700 !important;
   height: 4.6em;
 }
-@media (min-width: 381px) {
-  #es-rc.es-rc .es-features__title {
-    height: 3.6em;
-  }
-}
+
 @media (min-width: 576px) {
   #es-rc.es-rc .es-features__title {
-    font-size: 19px !important;
+    font-size: 19px ;
   }
 }
-@media (min-width: 768px) {
-  #es-rc.es-rc .es-features__title {
-    height: 4.6em;
-  }
-}
-@media (min-width: 992px) {
-  #es-rc.es-rc .es-features__title {
-    height: 3.6em;
-  }
-}
+
 #es-rc.es-rc .es-features .title-top {
   height: 2.6em;
 }
